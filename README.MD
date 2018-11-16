@@ -1,5 +1,5 @@
 ### Required Dependancies
-
+##### 
 - Python 3.7.1
 - Anaconda
 - JupyterNotebook
@@ -34,7 +34,7 @@ The csv file is included in my github to make it easier to run.
 - Found unique directors in database (1707)
 - Calculated Actors that appear in the most movies in that database.  This task wasn't as straightforward as doing the similar thing with directors.  In the original dataset there are 3 different columns that contain actor names (unlike directors that only have 1) so I had to use SQL Unions to combine the 3 actor columns, then run computations to find the ones that appear with the greatest frequency.
 
-##### GRAPHS
+### GRAPHS
 I based my matplotlib and bokeh graphs on the basic documentation examples for both respective libraries.  Here I graph all of the data that I analyzed in the last section
 
 ##### CONCLUSION
