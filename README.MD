@@ -1,15 +1,16 @@
-### Required Dependancies
-##### 
+Code Louisville - Python for Data - Final Project
+Kami Jenkins
+
+##### Required Dependancies
 - Python 3.7.1
 - Anaconda
 - JupyterNotebook
-
 - pandas
 - sqlite3
 - numpy
 - matplotlib
 
-- bokeh (not really for the project, but what I have been working on since I reached the passing point)
+- bokeh (not really for the project, but what I have been working on since fulfilling the requirements)
 
 ### PROJECT QUESTION
 Are female actresses evenly represented amongst the Actors/Actresses that are in the most movies in this database?
@@ -37,5 +38,5 @@ The csv file is included in my github to make it easier to run.
 ### GRAPHS
 I based my matplotlib and bokeh graphs on the basic documentation examples for both respective libraries.  Here I graph all of the data that I analyzed in the last section
 
-##### CONCLUSION
+### CONCLUSION
 By looking at the data returned, it appears that actresses are not represented in any way in the top 10 most frequent actors listed in the database.  
